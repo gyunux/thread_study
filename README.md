@@ -1,2 +1,2 @@
-# thread_study
+# Thread_Study
 Java Thread Study
